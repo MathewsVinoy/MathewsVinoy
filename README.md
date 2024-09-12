@@ -1,5 +1,12 @@
 # 💫 About Me:
 My name is Mathews Vinoy, and I'm currently studying at MBCCET.<br>I enjoy programming in my free time.
+Smile🙂
+  When you are sad
+       Smile☺
+  When you are angry
+       Smile😊
+   When you are hurt.
+Your life will automatically be a marvel...
 
 
 ## 🌐 Socials:
