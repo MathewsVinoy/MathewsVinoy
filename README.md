@@ -26,7 +26,7 @@ Your life will automatically be a marvel...<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsVinoy&layout=compact&theme=radical)
 
-<img src="https://raw.githubusercontent.com/MathewsVinoy/MathewsVinoy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MathewsVinoy/MathewsVinoy/snake.svg" alt="Snake animation" />
 
 [![](https://visitcount.itsvg.in/api?id=MathewsVinoy&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
 
