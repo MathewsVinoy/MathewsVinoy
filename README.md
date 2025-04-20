@@ -28,7 +28,7 @@ Your life will automatically be a marvel...<br/>
 
 <img src="https://raw.githubusercontent.com/Algorhythmic-Duo/Algorhythmic-Duo/output/snake.svg" alt="Snake animation" />
 
-[![](https://visitcount.itsvg.in/api?id=Algorhythmic-Duo&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
+[![](https://visitcount.itsvg.in/api?id=MathewsVinoy&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
 
 
 ### ✍️ Random Dev Quote
