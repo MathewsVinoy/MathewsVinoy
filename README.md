@@ -2,7 +2,6 @@
 
 My name is Mathews Vinoy, and I'm currently studying at MBCCET.<br>I enjoy programming in my free time.<br/>
 
-```
 Smile🙂<br/>
 When you are sad<br/>
 Smile☺<br/>
@@ -11,7 +10,7 @@ Smile😊<br/>
 When you are hurt.<br/>
 Smile😊<br/>
 Your life will automatically be a marvel...<br/>
-```
+
 
 ## 🌐 Socials:
 
