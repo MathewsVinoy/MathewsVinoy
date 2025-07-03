@@ -10,7 +10,8 @@ When you are angry<br/>
 Smile😊<br/>
 When you are hurt.<br/>
 Smile😊<br/>
-Your life will automatically be a marvel...<br/>```
+Your life will automatically be a marvel...<br/>
+```
 
 ## 🌐 Socials:
 
