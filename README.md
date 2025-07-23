@@ -2,16 +2,6 @@
 
 My name is Mathews Vinoy, and I'm currently studying at MBCCET.<br>I enjoy programming in my free time.<br/>
 
-
-Smile🙂<br/>
-When you are sad<br/>
-Smile☺<br/>
-When you are angry<br/>
-Smile😊<br/>
-When you are hurt.<br/>
-Smile😊<br/>
-Your life will automatically be a marvel...<br/>
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mathews_vinoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathews-vinoy-2a6a8726b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
