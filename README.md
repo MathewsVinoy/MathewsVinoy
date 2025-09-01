@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-My name is Mathews Vinoy, and I'm currently studying at MBCCET.<br>I enjoy programming in my free time...<br/>
+Hi, Mathews Vinoy, a student at MBCCET with a passion for technology and problem- solving.
+<br/>
+I enjoy exploring the world of programming in my free time, building projects, and learning new skills along the way.<br/>
 
 ## 🌐 Socials:
 
