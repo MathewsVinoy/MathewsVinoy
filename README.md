@@ -14,7 +14,7 @@ I enjoy exploring the world of programming in my free time, building projects, a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewsVinoy&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MathewsVinoy&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MathewsVinoy&theme=radical&locale=ml)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsVinoy&layout=compact&theme=radical)
 
