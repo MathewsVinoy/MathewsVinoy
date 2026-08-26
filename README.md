@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hai, Mathews Vinoy, a student at MBCCET with a passion for technology and problem- solving.<br>I enjoy exploring the world of programming in my free time, building projects, and learning new skills along the way.
+Hai, Mathews Vinoy, a student at MBCCET with a passion for technology and problem  solving.<br>I enjoy exploring the world of programming in my free time, building projects, and learning new skills along the way.
 
 
 ## 🌐 Socials:
